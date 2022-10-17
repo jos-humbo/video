@@ -8,7 +8,7 @@ pip install pytube
 
 También necesitas tener instalado ffmpeg:
 
-# Ubuntu
+### Ubuntu
     sudo apt update && sudo apt install ffmpeg
-# Arch Linux
+### Arch Linux
     sudo pacman -S ffmpeg
